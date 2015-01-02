@@ -1,0 +1,18 @@
+######################################
+DZCP 2.0 Pre-Alpha 1
+######################################
+
+/web/nbproject/*: 
+NetBeans IDE 8.0.2 Projekt Files
+
+/web/vendor/*: 
+Yii Framework 1.1.16, Composer Autoload und Framework Module
+
+/web/yii1.1.16-demos: 
+[Yii Framework 1.1.16] -> * Beispiele / Demos *
+
+/web/yii1.1.16-requirements: 
+[Yii Framework 1.1.16] -> * Yii Anforderungs-Tester *
+
+/web/yii1.1.16-requirements: 
+DZCP 2.0 Pre-Alpha Kernel -> * Nur Lernumgebung *

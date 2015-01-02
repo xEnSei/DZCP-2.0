@@ -1,0 +1,9 @@
+######################################
+Yii Framework 1.1.16
+######################################
+
+/vendor/clevertech/yii-booster/*: 
+YiiBooster version 4.0.1 -> http://yiibooster.clevertech.biz/
+
+/vendor/composer/*: 
+Composer PSR-0 Class Loader

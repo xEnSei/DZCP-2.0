@@ -1,0 +1,14 @@
+{
+    "name": "vendor/d-z-c-p-2-0",
+    "description": "Description of project DZCP-2.0.",
+    "authors": [
+        {
+            "name": "Lucas",
+            "email": "godkiller_nt@hammermaps.de"
+        }
+    ],
+    "require": {
+        "yiisoft/yii": "1.1.16",
+        "clevertech/yii-booster": "v4.0.1"
+    }
+}
